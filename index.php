@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="description" content="CV Developpeur Web Fullstack duhamel Tony">
 	<meta name="keywords" content="cv, developpeur, web, tony, duhamel, fullstack">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css?date=<?= filemtime('css/style.css') ?>">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700i" rel="stylesheet">
@@ -370,7 +370,7 @@
 			<p><i class="fas fa-map-marker-alt"></i> 2 résidence pierre mendes france rue des coucous 62600 Berck</p>
 			<p><i class="fab fa-github"></i> https://github.com/Eyzo?tab=repositories</p>
 			<p><i class="fas fa-mail-bulk"></i> duhameltonyeyzo@gmail.com</p>
-			<p><i class="fas fa-phone"></i> 06 45 45 74 83</p>
+			<p><i class="fas fa-phone"></i> 07 66 49 22 28</p>
 		</div>
 		<div class="col-md-4">
 			
