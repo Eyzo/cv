@@ -181,12 +181,12 @@ margin:auto;
 
 .xp-pro
 {
-	background-color: #C4C4C4;
+	background-color: #c4c4c433;
 	border-radius: 25px;
 	padding: 10px;
 	margin-bottom:20px; 
 	transition: transform 0.3s;
-	box-shadow: 2px 2px 5px black;
+	box-shadow: 2px 2px 5px #0000002e;
 }
 
 .xp-pro:hover
@@ -217,7 +217,7 @@ margin:auto;
 
 .xp-title h5
 {
-	color:#BC0303;
+	color:#694695;
  	text-align:center;
 }
 
