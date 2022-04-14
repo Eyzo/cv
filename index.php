@@ -69,13 +69,12 @@
 <div class="competences-liste container">
 
 	<div class="competences-content">
-		<h4><strong>Symfony 6</strong></h4>
+		<h4><strong>Symfony</strong></h4>
 		<img src="css/img/symfony.png" width="110" height="110">
 		<div class="stars">
 			<img src="css/img/star-icon.png" >
 			<img src="css/img/star-icon.png" >
 			<img src="css/img/star-icon.png" >
-            <img src="css/img/star-icon.png" >
             <img src="css/img/star-icon.png" >
         </div>
 	</div>
@@ -108,8 +107,8 @@
 <div class="competences-liste container">
 
 	<div class="competences-content">
-		<h4><strong>CSS 3</strong></h4>
-		<img src="css/img/css3.png" width="110" height="110">
+		<h4><strong>Sass</strong></h4>
+		<img src="css/img/sass.png" width="110" height="110">
 		<div class="stars">
 			<img src="css/img/star-icon.png" >
 			<img src="css/img/star-icon.png" >
@@ -144,6 +143,43 @@
 
 </div>
 
+<div class="competences-liste container">
+
+    <div class="competences-content">
+        <h4><strong>Git</strong></h4>
+        <img src="css/img/git.png" width="110" height="110">
+        <div class="stars">
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+        </div>
+    </div>
+
+    <div class="competences-content">
+        <h4><strong>Docker</strong></h4>
+        <img src="css/img/docker.png" width="110" height="110">
+        <div class="stars">
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+        </div>
+    </div>
+
+    <div class="competences-content">
+        <h4><strong>Gitlab</strong></h4>
+        <img src="css/img/gitlab.png" width="110" height="110">
+        <div class="stars">
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+            <img src="css/img/star-icon.png" >
+        </div>
+    </div>
+
+</div>
+
 <!--experiences pro block-->
 <div class="block experiences-pro container-fluid">
 	<h2><strong>Expériences professionnelles</strong></h2>
@@ -165,7 +201,7 @@
             </div>
 
             <div class="xp-resume">
-                <p>Conception du site internet de la société Axe Informatique</p>
+                <p>Conception du site internet de la société Axe Informatique site de dev disponible à l'adresse suivante <a href="https://www.axe-informatique.dev/" target="_blank">https://www.axe-informatique.dev/</a></p>
             </div>
         </div>
 
@@ -183,7 +219,7 @@
             </div>
 
             <div class="xp-resume">
-                <p>Développeur au sein de l'équipe Allobébé site disponible a l'adresse suivante <a href="https://www.allobebe.fr/" target="_blank">https://www.allobebe.fr/</a></p>
+                <p>Développeur au sein de l'équipe Allobébé site disponible à l'adresse suivante <a href="https://www.allobebe.fr/" target="_blank">https://www.allobebe.fr/</a></p>
             </div>
         </div>
 
